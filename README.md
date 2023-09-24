@@ -1,1 +1,1 @@
-The codes for the experiments implemented in the paper "Why Differentially-Private Local SGD --  An Analysis of Biased Synchronized-Only Iterates". 
+The codes for the experiments implemented in the paper "Why Differentially-Private Local SGD --  An Analysis of Biased Synchronized-Only Iterates". Select the training data of interest in the main.py, and determine the hyperparameters such as number of epoch, batchsize, (epsilon,delta) DP budget in the run.sh. 
